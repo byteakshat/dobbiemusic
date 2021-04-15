@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "@androz2091/insta.js": "^1.6.1",
+    "instagram-private-api": "^1.44.1",
     "ffmpeg-static": "^4.2.7",
     "youtube-sr": "^4.0.3",
     "ytdl-core": "^4.5.0"
