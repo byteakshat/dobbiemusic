@@ -13,6 +13,6 @@
     "instagram-private-api": "^1.44.1",
     "ffmpeg-static": "^4.2.7",
     "youtube-sr": "^4.0.3",
-    "ytdl-core": "^4.5.0"
+    "ytdl-core": "^4.8.3"
   }
 }
